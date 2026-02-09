@@ -9,7 +9,7 @@ It should be like this: ``C:/Users/path/to/project``
 
 After that, write in terminal: ``npm install''. This will download all dependencies for working the game.
 
-After installing you need to start the game. In terminal write: ``npm start''. That would be start the game and you wiil see that site just opened right now in your browser.
+After installing you need to start the game. In terminal write: ``npm start``. That would be start the game and you wiil see that site just opened right now in your browser.
 If it's doesn't opened automatickly, in terminal you will see your localhost or something like this:
 
 "You can now view react.dev in the browser.
